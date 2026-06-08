@@ -4,6 +4,35 @@
 
 ## 📌 关于
 
+本仓库是基于原始开源项目的二次开发增强版本。
+
+### ✨ 新增功能
+
+- 🔧 添加 CONTRIBUTING.md 贡献指南
+- 📚 添加 CODE_OF_CONDUCT.md 行为准则
+- ⚡ 添加 GitHub Actions CI 工作流
+- 📖 补充中文文档
+
+## 📦 快速开始
+
+```bash
+git clone https://github.com/AISKILLEcommerce/minio.git
+cd minio
+# 安装依赖并使用
+```
+
+## 📄 许可证
+
+基于原项目许可证，详情见 [LICENSE](LICENSE) 文件。
+
+---
+
+# 🚀 minio - 二次开发增强版
+
+> 本项目是基于开源项目的二次开发增强版本
+
+## 📌 关于
+
 本仓库是基于 [原始开源项目](https://github.com/original/minio) 的二次开发增强版本。
 
 ### ✨ 新增功能
@@ -234,5 +263,6 @@ Please follow MinIO [Contributor's Guide](https://github.com/minio/minio/blob/ma
 - MinIO source is licensed under the [GNU AGPLv3](https://github.com/minio/minio/blob/master/LICENSE).
 - MinIO [documentation](https://github.com/minio/minio/tree/master/docs) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 - [License Compliance](https://github.com/minio/minio/blob/master/COMPLIANCE.md)
+
 
 
