@@ -5,7 +5,7 @@
 ## 开发环境设置
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/minio.git
+git clone https://github.com/AISKILLEcommerce/minio.git
 cd minio
 npm install
 ```
