@@ -1,36 +1,3 @@
-# 🚀 minio - 二次开发增强版
-
-> MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
-
-## 📌 关于
-
-本项目是基于 [minio/minio](https://github.com/minio/minio) 的二次开发增强版本。
-
-### ✨ 新增功能
-
-- 🔧 添加 CONTRIBUTING.md 贡献指南
-- 📚 添加 CODE_OF_CONDUCT.md 行为准则
-- ⚡ 添加 GitHub Actions CI 工作流
-- 📖 补充中文文档
-
-## 📦 快速开始
-
-```bash
-git clone https://github.com/YOUR_USERNAME/minio.git
-cd minio
-# 安装依赖并使用
-```
-
-## 📄 许可证
-
-基于原项目许可证，详情见 [LICENSE](LICENSE) 文件。
-
----
-
-**原始项目**: [minio/minio](https://github.com/minio/minio)
-
----
-
 > [!NOTE]
 > **THIS REPOSITORY IS NO LONGER MAINTAINED.**
 >
@@ -201,4 +168,3 @@ Please follow MinIO [Contributor's Guide](https://github.com/minio/minio/blob/ma
 - MinIO source is licensed under the [GNU AGPLv3](https://github.com/minio/minio/blob/master/LICENSE).
 - MinIO [documentation](https://github.com/minio/minio/tree/master/docs) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 - [License Compliance](https://github.com/minio/minio/blob/master/COMPLIANCE.md)
-
